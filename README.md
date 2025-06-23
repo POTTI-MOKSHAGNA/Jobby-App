@@ -2,7 +2,8 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 
 Here is the reference part for creating this application
 
-Live Demo link:  
+### Live Demo link:  mokshagnajobbyapp.netlify.app
+
 
 ### Design Files
 
