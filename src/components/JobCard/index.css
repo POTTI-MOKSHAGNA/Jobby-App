@@ -1,0 +1,66 @@
+.list {
+  color: #ffffff;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+.li {
+  background-color: #272727;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+.job-container {
+  display: flex;
+  align-items: center;
+}
+.cmp-logo {
+  height: 50px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.company-title {
+  font-size: 11px;
+}
+.rating {
+  font-size: 8px;
+  margin-left: 3px;
+}
+.details-container {
+  display: flex;
+  justify-content: space-between;
+}
+.detail {
+  font-size: 7px;
+  margin-left: 6px;
+  margin-right: 30px;
+}
+.salary {
+  font-size: 14px;
+}
+.description {
+  font-size: 10px;
+}
+
+@media (min-width: 768px) {
+  .description {
+    font-size: 17px;
+  }
+  .salary {
+    font-size: 18px;
+  }
+  .detail {
+    font-size: 10px;
+  }
+  .rating {
+    font-size: 13px;
+  }
+  .list {
+    padding: 35px;
+  }
+  .cmp-logo {
+    height: 75px;
+  }
+  .company-title {
+    font-size: 18px;
+  }
+}
